@@ -2,5 +2,3 @@ second file in branch1
 v3 in branch1
 second file in master
 2 in master
-edited by asil
-1 new file jayesh s
