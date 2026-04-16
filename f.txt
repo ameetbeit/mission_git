@@ -2,3 +2,5 @@ second file in branch1
 v3 in branch1
 second file in master
 2 in master
+I have added new comments in my amit_branch
+changed in amit_branch branch
